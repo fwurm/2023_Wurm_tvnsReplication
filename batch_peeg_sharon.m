@@ -12,8 +12,8 @@ fdir.TFAdir = strcat(fdir.dir_data, 'TimeFreq\');
 
 %%% Add specific paths %%%
 addpath('Routines')
-addpath('Routines/nway331-toolbox\')
-addpath('Routines/eeg_2d_minimal_rejection\')
+addpath('Routines\nway331-toolbox\')
+addpath('Routines\eeg_2d_minimal_rejection\')
 
 % Add fieltrip
 ftpath = 'C:\Users\wurmf\Documents\Github\fieldtrip\';
